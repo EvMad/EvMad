@@ -11,6 +11,6 @@ I am studying to become a full stack developer. I would like to bring my work an
 
 I've been a drummer for 30 years, I've been playing in bands for 25 years, promoting shows in the Philly area for 15 years, and working in venues for 10 years. I ran a booking agency called Riff Lifter Touring from 2011-2018 covering all of North America. I currently bartend at a live music venue and have been tending bar for a decade. I have a BA in Music from the University of Maryland Baltimore County where I studied recording and performance.
 
-##### LANGUAGES
+##### LANGUAGES AND TECHNOLOGIES
 
-HTML, CSS, JavaScript, JQuery
+Git Bash, Heroku, MySQL, Sequelize, Node, Express, HTML, CSS, Bootstrap, Bulma, JavaScript, JQuery, Handlebars, Cloudinary, Prettier
