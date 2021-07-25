@@ -3,7 +3,7 @@
 ## ABOUT ME:
 I am currently studying web development and learning a variety of coding languages full time. 
 
-![Portfolio](https://evmad.github.io/portfolio-one/)
+[Portfolio](https://evmad.github.io/portfolio-one/)
 
 ### CURRENT GOALS
 
