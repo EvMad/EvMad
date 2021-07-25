@@ -5,7 +5,7 @@ I am currently studying web development and learning a variety of coding languag
 
 [Portfolio](https://evmad.github.io/portfolio-one/)
 
-[LinkedIn](https://www.linkedin.com/in/evan-madden-923474211/)
+
 
 ### CURRENT GOALS
 
@@ -22,4 +22,6 @@ Git Bash, Heroku, MySQL, Sequelize, MongoDB, Node, Express, HTML, CSS, Bootstrap
 ###### CONTACT
 
 evan.madden@gmail.com
+
+[LinkedIn](https://www.linkedin.com/in/evan-madden-923474211/)
 
