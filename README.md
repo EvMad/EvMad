@@ -3,6 +3,8 @@
 ## ABOUT ME:
 I am currently studying web development and learning a variety of coding languages full time. 
 
+![Portfolio](https://evmad.github.io/portfolio-one/)
+
 ### CURRENT GOALS
 
 I am studying to become a full stack developer. I would like to bring my work and life experience into this new career, as well as bring my new found web development skills into music industry and bar industry projects.
