@@ -1,7 +1,7 @@
 # Evan Madden
 
 ## ABOUT ME:
-I am currently studying web development and learning a variety of coding languages full time. 
+I have recently graduated from the web development bootcamp through the University of Pennsylvania. I am currently honing my skills through independent study and side projects.
 
 [Portfolio](https://evmad.github.io/portfolio-one/)
 
@@ -17,7 +17,7 @@ I've been a drummer for 30 years, I've been playing in bands for 25 years, promo
 
 ##### LANGUAGES, TECHNOLOGIES, and APPLICATIONS
 
-Git Bash, Heroku, MySQL, Sequelize, MongoDB, Node, Express, HTML, CSS, Bootstrap, Bulma, JavaScript, JQuery, Handlebars, Cloudinary, Prettier
+GraphQL, Apollo, Git Bash, Heroku, MySQL, Sequelize, MongoDB, React, Node, Express, HTML, CSS, Bootstrap, Bulma, JavaScript, JQuery, Handlebars, Cloudinary, Adobe XD
 
 ###### CONTACT
 
