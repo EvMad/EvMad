@@ -1,7 +1,7 @@
 # Evan Madden
 
 ## ABOUT ME:
-I have recently graduated from the web development bootcamp through the University of Pennsylvania. I am currently honing my skills through independent study and side projects.
+I have recently graduated from the web development bootcamp through the University of Pennsylvania. I am currently completing a UX Design Certificate through Google Coursera.
 
 [Portfolio](https://evmad.github.io/portfolio-one/)
 
@@ -9,7 +9,7 @@ I have recently graduated from the web development bootcamp through the Universi
 
 ### CURRENT GOALS
 
-I am studying to become a full stack developer. I would like to bring my work and life experience into this new career, as well as bring my new found web development skills into music industry and bar industry projects.
+I have recently earned a Web Development certificate, and am now building a PWA, as well as several other applications, design projects, and writing projects for my portfolio.
 
 #### BACKGROUND
 
