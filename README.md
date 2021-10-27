@@ -9,7 +9,7 @@ I have recently graduated from the web development bootcamp through the Universi
 
 ### CURRENT GOALS
 
-I have recently earned a Web Development certificate, and am now building a PWA, as well as several other applications, design projects, and writing projects for my portfolio.
+My current goal is to expand my portfolio and my skill set, including a PWA, design projects, and writing projects, in addition to full stack applications.
 
 #### BACKGROUND
 
