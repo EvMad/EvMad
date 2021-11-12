@@ -9,7 +9,7 @@ Web developer with a music industry background, and a Web Development certificat
 
 ### CURRENT GOALS
 
-My current goal is to learn as much as I can about Web Development, UX/UI, and Multi-Media, through collaboration and hands-on experience.
+My current goal is to learn as much as I can about Web Development, UX/UI, and Multi-Media through collaboration and hands-on experience.
 
 #### BACKGROUND
 
