@@ -1,7 +1,7 @@
 # Evan Madden
 
 ## ABOUT ME:
-I have recently graduated from the web development bootcamp through the University of Pennsylvania. I am currently completing a UX Design Certificate through Google Coursera.
+Web developer with a music industry background, and a Web Development certificate from the University of Pennsylvania LPS bootcamp. Currently completing a UX Design Certificate through Google Coursera. Primary strengths are in organizing information, resources, and people. Technical strong points in CSS frameworks, custom CSS, vanilla JavaScript, and JS server-side extensions. Soft skills developed over a decade of managing client experience and event production.
 
 [Portfolio](https://evmad.github.io/portfolio-one/)
 
@@ -9,15 +9,15 @@ I have recently graduated from the web development bootcamp through the Universi
 
 ### CURRENT GOALS
 
-My current goal is to expand my portfolio and my skill set, including a PWA, design projects, and writing projects, in addition to full stack applications.
+My current goal is to learn as much as I can about Web Development, UX/UI, and Multi-Media, through collaboration and hands-on experience.
 
 #### BACKGROUND
 
-I've been a drummer for 30 years, I've been playing in bands for 25 years, promoting shows in the Philly area for 15 years, and working in venues for 10 years. I ran a booking agency called Riff Lifter Touring from 2011-2018 covering all of North America. I currently bartend at a live music venue and have been tending bar for a decade. I have a BA in Music from the University of Maryland Baltimore County where I studied recording and performance.
+I've been a drummer most of my life, I've been playing in bands since I was a teenager, promoting shows in the Philly area for over a decade, and working in venues for 10 years. I ran a booking agency called Riff Lifter Touring from 2011-2018 covering all of North America. I currently bartend at a live music venue by night, and code by day. I have a BA in Music from the University of Maryland Baltimore County where I studied recording and performance.
 
-##### LANGUAGES, TECHNOLOGIES, and APPLICATIONS
+##### LANGUAGES, TECHNOLOGIES, APPLICATIONS, and TECHNICAL SKILLS
 
-GraphQL, Apollo, Git Bash, Heroku, MySQL, Sequelize, MongoDB, React, Node, Express, HTML, CSS, Bootstrap, Bulma, JavaScript, JQuery, Handlebars, Cloudinary, Adobe XD
+MERN, GraphQL, React, Apollo Server, MongoDB, Git Bash, Node JS, Express, MySQL, Sequelize, CSS, Bootstrap, Bulma, jQuery, JavaScript, JS, ECMAScript6, ES6, Handlebars, HTML, Insomnia Core, Heroku, Cloudinary, Adobe XD, vanilla JavaScript, custom CSS, React Router, React in-line styling, REST, RESTful, OOD, DOM, Scrum, Agile, SASS, PWA
 
 ###### CONTACT
 
