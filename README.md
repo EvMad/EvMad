@@ -17,7 +17,7 @@ I've been a drummer most of my life, I've been playing in bands since I was a te
 
 ##### LANGUAGES, TECHNOLOGIES, APPLICATIONS, and TECHNICAL SKILLS
 
-MERN, GraphQL, React, Apollo Server, MongoDB, Git Bash, Node JS, Express, MySQL, Sequelize, CSS, Bootstrap, Bulma, jQuery, JavaScript, JS, ECMAScript6, ES6, Handlebars, HTML, Insomnia Core, Heroku, Cloudinary, Adobe XD, vanilla JavaScript, custom CSS, React Router, React in-line styling, REST, RESTful, OOD, DOM, Scrum, Agile, SASS, PWA
+MERN, GraphQL, React, Apollo Server, MongoDB, Moongoose, Git Bash, Node JS, Express, MySQL, Sequelize, CSS, Sass, SCSS, Bootstrap, Bulma, jQuery, JavaScript, JS, ECMAScript6, ES6, ES13, Handlebars, HTML, PHP, Wordpress, Insomnia Core, Heroku, Cloudinary, Figma, Adobe XD, vanilla JavaScript, React Router, React in-line styling, JSX, XML, REST, RESTful, OOD, DOM, Scrum, Agile, PWA
 
 ###### CONTACT
 
