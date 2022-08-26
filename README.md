@@ -13,7 +13,7 @@ My current goal is to learn as much as I can about Web Development, UX/UI, and M
 
 #### BACKGROUND
 
-I've been a drummer most of my life, I've been playing in bands since I was a teenager, promoting shows in the Philly area for over a decade, and working in venues for 10 years. I ran a booking agency called Riff Lifter Touring from 2011-2018 covering all of North America. I currently bartend at a live music venue by night, and code by day. I have a BA in Music from the University of Maryland Baltimore County where I studied recording and performance.
+I've been a drummer most of my life, I've been playing in bands since I was a teenager, promoting shows in the Philly area for over a decade, and working in venues for 10 years. I ran a booking agency called Riff Lifter Touring from 2011-2018 covering all of North America. I am currently working as a Web Specialist at ECFMG on a six month contract. I have a BA in Music from the University of Maryland Baltimore County where I studied recording and performance.
 
 ##### LANGUAGES, TECHNOLOGIES, APPLICATIONS, and TECHNICAL SKILLS
 
