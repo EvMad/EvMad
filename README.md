@@ -1,19 +1,14 @@
 # Evan Madden
 
 ## ABOUT ME:
-Web developer with a music industry background, and a Full Stack (MERN) Web Development certificate from the University of Pennsylvania, and a Google UX Design Certificate through Coursera. Primary strengths are in organizing information, resources, and people. Technical strong points in CSS frameworks, custom CSS, vanilla JavaScript, and JS server-side extensions. Soft skills developed over a decade of managing client experience and event production.
+Web developer with a music industry background, and a Full Stack (MERN) Web Development certificate from the University of Pennsylvania, and a Google UX Design Certificate through Coursera. Primary strengths are in organizing information, resources, and people. Technical strong points in CSS frameworks, custom CSS, vanilla JavaScript, and JS server-side extensions. Soft skills developed over a decade of managing client experience and event production. I have completed my first contract as a front-end developer.
 
-[Portfolio](https://evmad.github.io/portfolio-one/)
+[Portfolio](https://evmad.github.io/portfolio_2024/)
 
-
-
-### CURRENT GOALS
-
-My current goal is to learn as much as I can about Web Development, UX/UI, and Multi-Media through collaboration and hands-on experience.
 
 #### BACKGROUND
 
-I am currently working as a Web Specialist at ECFMG/Intealth. I have a BA in Music from the University of Maryland Baltimore County where I studied recording and performance.
+I am currently working as a venue manager. I have a BA in Music from the University of Maryland Baltimore County where I studied recording and performance.
 
 ##### LANGUAGES, TECHNOLOGIES, and FRAMEWORKS
 
